@@ -3,3 +3,24 @@ basic bases	6/18/14		Create 3d models for the short, medium, and tall towers
 basic guns	6/25/14		Create simple 3d models for the basic tower tops. these are the unmodified version of each type
 simple skins	6/30/14		Create simple art assets to skin all of the completed models thus far. for each new model moving forward new skins will need to be made as they come up
 world models	7/4/14		Create the basic models required to build a world. e.g. spawn, goal, tower slot, etc.
+menu and hud	7/4/14		Create the art assets for menus and the in game hud
+player towers	7/11/14
+level scenes	7/14/14
+player levels	7/18/14
+advanced bases	7/25/14
+advanced tops	7/25/14
+advanced art	7/28/14
+buildings	7/28/14
+campaign	8/8/14
+ALPHA RELEASE	8/8/14
+website		8/15/14
+player account	8/22/14
+multiplayer	9/5/14
+BETA RELEASE	9/12/14
+monitization	9/19/14
+better modles	9/26/14
+better art	9/26/14
+RELEASE		10/1/14
+
+*/STRETCH GOAL/*
+Release by 9/4/14
